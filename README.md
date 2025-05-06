@@ -56,7 +56,7 @@ Si prefieres ejecutar la aplicación sin Docker:
 
 1. Clona este repositorio.
 
-   https://github.com/JeanPaucar/RetoBackTenpo
+   https://github.com/JeanPaucar/ChallengeTenpo
 
 2. Comandos para generar imagen
 
